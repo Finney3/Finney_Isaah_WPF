@@ -1,7 +1,9 @@
 //Prompt and Alert
 
-var userInput = prompt("Enter your year of birth:");
-console.log(userInput);
+var firstName = prompt ("Whats your first name ?");
+var lastName = prompt ("Whats your last name");
+var fullName = (firstName + " " + lastName);
+alert(fullName);
 
 
 
