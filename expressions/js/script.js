@@ -1,6 +1,7 @@
-//Expressions - Assignment Operators
+//Prompt and Alert
 
-var a = 3;
-a *= 4; // This is saying the same as 3 x 4 just shorter
-console.log(a);
+var userInput = prompt("Enter your year of birth:");
+console.log(userInput);
+
+
 
