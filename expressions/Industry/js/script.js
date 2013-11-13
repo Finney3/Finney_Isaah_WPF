@@ -8,21 +8,21 @@ console.log(type);
 var prices = [35000,  40000,  27000, 33000];//Prices in thousands
 console.log(prices);
 
-if (type = 0)
+if (type[0] === 0)
 {
-	console.log(ford * 3500/2)
+	var a = console.log(ford * 3500/2);
 }
-else if (type = 1)
+else if (type[1] === 1)
 {
-	console.log(4000/20);
+	var b = console.log(4000/20);
 }
-else (type = 2)
+else (type[2] === 2)
 {
-	console.log(27000/20);
+	var c = console.log(27000/20);
 }
-else (type = 3)
+else (type[3] === 3)
 {
-	console.log(33000/20);
+	var d = console.log(33000/20);
 }
-var ford = newCar[0]
-console.log(ford*3500/20);
+//var ford = newCar[0]
+//console.log(ford*3500/20);
