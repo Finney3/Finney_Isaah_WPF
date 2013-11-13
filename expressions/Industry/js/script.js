@@ -7,4 +7,5 @@ var type = prompt("type 0 for Ford Mustang, type 1 for Dodge Charger, type 2 for
 console.log(type);
 var prices = [35000,  40000,  27000, 33000];//Prices in thousands
 console.log(prices);
-
+var ford = newCar[0]
+console.log(ford*3500/20);
