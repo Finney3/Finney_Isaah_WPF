@@ -6,4 +6,4 @@ var pounds = prompt ("Whats your weight in LBS"); // ask for user input on weigh
 console.log(pounds); // print what user input to console
 var amateure = prompt ("Amateure enter 1 and serious lifters enter 1.5"); // This is the where a user will either be a serious or amateure lifter base on what use inuts here
 var total = pounds * amateure; // pounds times either 1 or 1.5
-console.log((total) + " " + "Your require grams of protein needed daily"); //this gives the total that a weight trainer should take for protein.
+console.log((total) + " " + "grams your require of protein needed daily"); //this gives the total that a weight trainer should take for protein.
