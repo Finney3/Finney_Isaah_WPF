@@ -13,10 +13,10 @@ console.log(prices);
 if (type[0] === 0){
 	var a =(3500/2);
 	console.log(a);
-}else if (type[1] === 1){
+}if (type[1] === 1){
 	var b = console.log(4000/20);
 }
-else (type[2] === 2){
+if (type[2] === 2){
 	var c = console.log(27000/20);
 }
 else (type[3] === 3){
