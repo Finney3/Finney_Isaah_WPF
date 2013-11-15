@@ -1,12 +1,15 @@
 // Conditionals Wacky Isaah Finney 
 
-//I'm buying a pair of shoes the size of 9 but decide to buy another pair if they don't fit my feet
+//This project is to determine the champioship winners of a 4 team tournament bracket
 
-var shoeSize = 9;
-var largeFoot = 10
-var diffSize;
+//These are the var for the 4 teams 1st match ups
+var team1 = prompt("Profuse Gaming Final Score?);
+var team2 = 13
+var team3 = 4
+var team4 = 16
 
-if (shoeSize <= largeFoot){
-	console.log("You have the right size to buy");
-}else
-	console.log("Try getting a larger pair of shoes");
+//This is where the first 2 teams will play and we will have a winner and a loser
+
+
+
+
