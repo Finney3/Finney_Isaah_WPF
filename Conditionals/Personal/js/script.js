@@ -8,4 +8,5 @@ var diffSize;
 
 if (shoeSize <= largeFoot){
 	console.log("You have the right size to buy");
-
+}else
+	console.log("Try getting a larger pair of shoes");
