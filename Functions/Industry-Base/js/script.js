@@ -4,8 +4,8 @@
 
 function ageFunction(){
 	var a = prompt("How old are you?");
-	var b = (a => 18);
-	var total = ();
+	var b = a < 18;
+	var young = alert("");
 }
 
 ageFunction();
