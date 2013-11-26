@@ -1,4 +1,3 @@
-// Function Industry Isaah Finney 
+// Function Industry Isaah Finney November 21, 2013
 
-//This code will deplict on the time on your computer to determine a website to go to as far as being based on your time
 
