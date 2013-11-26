@@ -7,7 +7,8 @@ function ageFunction(){
 	var b = a <= 18;
 	if(b = true){
 		console.log("You can proceed to website!");
-	}
+	}else
+		console.log("You are not old enough sorry!");
 
 }
 
