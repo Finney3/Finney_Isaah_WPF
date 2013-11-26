@@ -4,9 +4,11 @@
 
 function ageFunction(){
 	var a = prompt("How old are you?");
-	var b = a < 18;
-	var young = alert("You are not old enough to enter this website!");
-	return young;
+	var b = a <= 18;
+	if(b = true){
+		console.log("You can proceed to website!");
+	}
+
 }
 
 ageFunction();
