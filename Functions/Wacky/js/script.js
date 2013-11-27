@@ -2,9 +2,16 @@
 
 //This function is to help calculate the frag per round based on number from a player in a online game
 
-function calcFpr (16,14,"Peekay"){
+calcFpr (16,14);
 
-
+function calcFpr(r, f){
+	var fpr = r / f;
+	console.log(fpr);
+	return fpr;
 }
+calcFpr();
+
+
+
 
 
