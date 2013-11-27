@@ -7,7 +7,7 @@ function callForfire(){
 	var enimeies =4658;
 	var dangerClose="It is not safe to fire ammunitions";
 	var repeatFire="We have been cleared hot";
-if(friendlies < !OR > enimeies){
+if(friendlies < || > enimeies){
 	console.log(repeatFire);
 } else
 
