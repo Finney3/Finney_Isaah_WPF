@@ -6,8 +6,8 @@ calcFpr(16, 14);
 
 function calcFpr(r, f){
 	var fpr = r / f;
-console.log(fpr);
-	return fpr;
+console.log("Peekay\'s frags per round is" + fpr);
+
 }
 calcFpr();
 
