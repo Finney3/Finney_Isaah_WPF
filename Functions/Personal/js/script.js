@@ -6,7 +6,7 @@ function callForfire(){
 	var enimeies =4658; // Declares enimeies value
 	var dangerClose="It is not safe to fire ammunitions"; // string to print to console if condition is true
 	var repeatFire="We have been cleared hot"; //string to print to console if the condition is false
-if(friendlies < "||" > enimeies){
+if(friendlies > enimeies){
 	 return console.log(repeatFire);
 } else
 
