@@ -14,4 +14,6 @@ if(friendlies > enimeies){
 
 }
 callForfire();
+callForfire();
+callForfire();
 
