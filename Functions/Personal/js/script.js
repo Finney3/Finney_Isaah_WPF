@@ -2,7 +2,7 @@
 
 //Call For Fire Function
 function callForfire(){
-	var friendlies = 3368; // Declares friendlies value
+	var friendlies = 4985; // Declares friendlies value
 	var enimeies =4658; // Declares enimeies value
 	var dangerClose="It is not safe to fire ammunitions"; // string to print to console if condition is true
 	var repeatFire="We have been cleared hot"; //string to print to console if the condition is false
