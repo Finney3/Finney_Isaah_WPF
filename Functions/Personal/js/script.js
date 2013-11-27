@@ -1,17 +1,16 @@
 // Functions Personal Isaah Finney November 21, 2013
 
 //Call For Fire Function
-callForfire(4658)//This is the 4 Digit Grid I'm working Off
 function callForfire(){
-	var friendlies = 3368; 
-	var enimeies =4658;
-	var dangerClose="It is not safe to fire ammunitions";
-	var repeatFire="We have been cleared hot";
-if(friendlies < || > enimeies){
-	console.log(repeatFire);
+	var friendlies = 3368; // Declares friendlies value
+	var enimeies =4658; // Declares enimeies value
+	var dangerClose="It is not safe to fire ammunitions"; // string to print to console if condition is true
+	var repeatFire="We have been cleared hot"; //string to print to console if the condition is false
+if(friendlies < && > enimeies){
+	 return console.log(repeatFire);
 } else
 
-		console.log(dangerClose);
+		return console.log(dangerClose);
 
 }
 callForfire();
